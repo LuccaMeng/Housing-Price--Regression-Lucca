@@ -1,8 +1,6 @@
 • Background: 
 
-Data source: Boston housing prices from kaggle
-
-This data frame has 506 rows and 14 columns.
+Data source: Boston housing prices from kaggle. This data frame has 506 rows and 14 columns.
 
 crim
 per capita crime rate by town.
@@ -47,4 +45,5 @@ medv
 median value of owner-occupied homes in \$1000s.
 
 • Objectives:
+
 Build linear regression model, ridge regression model and lasso regression model to explore how different factors affect the housing price, and compare the results.
